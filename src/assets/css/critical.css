@@ -183,16 +183,6 @@
   }
 }
 /* Desktop Parallax Effect - 1300px */
-@media only screen and (min-width: 81.25em) {
-  #hero {
-    background: url("/assets/images/landing.jpg");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    /* creates parallax effect on background image */
-    background-attachment: fixed;
-  }
-}
 /* Dark Mode */
 @media only screen and (min-width: 0em) {
   body.dark-mode #hero .cs-background:before {
