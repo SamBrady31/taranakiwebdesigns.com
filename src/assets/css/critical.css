@@ -93,6 +93,7 @@
   }
   #hero .cs-title {
     text-align: center;
+    width: 80%;
     color: var(--bodyTextColorWhite);
   }
   #hero .cs-text {
