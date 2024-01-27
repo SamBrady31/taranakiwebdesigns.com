@@ -5,7 +5,6 @@
 /* CodeStitch Root and Helpers */
 @media only screen and (min-width: 0em) {
   :root {
-    background-color: green;
     --primary: #ffba19;
     --primaryLight: #ffd675;
     --secondary: #001f3f;
