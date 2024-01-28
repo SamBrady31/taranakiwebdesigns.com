@@ -68,7 +68,7 @@
       &:before {
         /* Left Line */
         content: "";
-        width: 1px;
+        width: 0px;
         height: 100%;
         background: -moz-linear-gradient(
           top,
@@ -193,7 +193,7 @@
       &:after {
         /* Right Line */
         content: "";
-        width: 1px;
+        width: 0px;
         height: 100%;
         background: -moz-linear-gradient(
           top,
